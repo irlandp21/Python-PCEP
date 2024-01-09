@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afe71a70-4d2e-4517-bbfe-04cfd8982fa9" name="Changes" comment="CEPD practice">
-      <change afterPath="$PROJECT_DIR$/python_institute/tests/test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_institute/tests/test02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_institute/tests/test03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="afe71a70-4d2e-4517-bbfe-04cfd8982fa9" name="Changes" comment="test practice" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -245,7 +240,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704573798895</updated>
       <workItem from="1704573800993" duration="11874000" />
-      <workItem from="1704648962113" duration="30134000" />
+      <workItem from="1704648962113" duration="30168000" />
     </task>
     <task id="LOCAL-00001" summary="modules">
       <option name="closed" value="true" />
@@ -279,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704724179706</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test practice">
+      <option name="closed" value="true" />
+      <created>1704841623321</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704841623321</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,7 +291,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modules" />
     <MESSAGE value="CEPD practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="CEPD practice" />
+    <MESSAGE value="test practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="test practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
